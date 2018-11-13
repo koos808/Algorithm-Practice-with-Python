@@ -1,5 +1,5 @@
-# Algorithm Practice with Python
-# 파이썬 알고리즘 연습
+## Algorithm Practice with Python
+### 파이썬 알고리즘 연습
 
 * 1번
     * 문제 : 비밀지도 (난이도 : 하) 
